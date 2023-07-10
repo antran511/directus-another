@@ -11,6 +11,6 @@
   "dependencies": {
     "directus": "^9.26.0",
     "pg": "^8.10.0",
-    "directus-extension-computed-interface": "^1.7.0"
+    "directus-extension-computed-interface": "^1.8.0"
   }
 }
