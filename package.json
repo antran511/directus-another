@@ -9,7 +9,7 @@
     "node": ">=12.20.0"
   },
   "dependencies": {
-    "directus": "^9.26.0",
+    "directus": "^10.5.2",
     "pg": "^8.10.0",
     "directus-extension-computed-interface": "^1.7.0"
   }
